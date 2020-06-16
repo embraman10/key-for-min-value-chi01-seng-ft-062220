@@ -5,5 +5,5 @@ def key_for_min_value(hash)
   key= " "
   value= " "
   hash.each do |cat, dog|
-
+    if value == " " || dog < value
 end
