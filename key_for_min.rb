@@ -9,4 +9,6 @@ def key_for_min_value(hash)
       value= dog
       key= cat
     end
+  end
+  key
 end
